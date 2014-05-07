@@ -6,10 +6,4 @@ class Expense
 		self.item = item
 		self.amount = amount
 	end
-
-	def show
-
-	<b>Item: </b>#{@item} #{@amount}
-	<br/>
-	end
 end
